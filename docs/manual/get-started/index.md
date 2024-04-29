@@ -67,7 +67,14 @@ Mac:
 - Python 3.8 - 3.11
 - Command-line tools for Xcode, or Xcode
 
-Support for Windows will be added in a future release.
+Windows:
+
+- Windows Update: Ensure your system is up to date.
+- Windows Version: Verify you have Windows 10 version 2004 (build 19041) or later, or Windows 11.
+- Hardware Virtualization: Enable hardware virtualization in BIOS/UEFI.
+- WSL 2
+- Linux distributions compatible with WSL 2
+more détails :  https://www.reddit.com/r/quelleformation/comments/1cg1i6k/mojo_modular_sdk_on_windows_setting_up_environment/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
 ### Install Mojo
 
